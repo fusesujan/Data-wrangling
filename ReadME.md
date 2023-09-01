@@ -98,7 +98,7 @@ This document categorizes data wrangling tools based on whether they require cod
 There are many other tools available but above mentioned are the common one.  
 Choose the appropriate data wrangling tool based on your data volume, complexity, technical proficiency, and desired level of automation. Each tool offers unique features to streamline your data preparation process.
 
-Here’s a basic example of what data wrangling looks like in practice. All the data points have been standardized, making the data easier to analyze:
+Here’s a basic example of what data wrangling looks like in practice using Python (Pandas) on small dataset. All the data points have been standardized, making the data easier to analyze:
 
 Starting Collected Data
 ![Screenshot](raw-data.png)
